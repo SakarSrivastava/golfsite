@@ -1,1 +1,1 @@
-# golfsite
+# Sidecup Golf Website
